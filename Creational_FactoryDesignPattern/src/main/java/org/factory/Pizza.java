@@ -7,4 +7,3 @@ public interface Pizza {
     public void pack();
 
 }
-
