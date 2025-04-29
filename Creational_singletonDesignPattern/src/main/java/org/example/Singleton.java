@@ -2,8 +2,10 @@ package org.example;
 
 //Singleton Pattern in Java Thread-safe with Lazy Initialization (initialised only when first getInstance is called)
 public class Singleton {
-    private static Singleton singletonInstance = null;
-
+    private static volatile Singleton singletonInstance = null;
+//    The volatile keyword in Java ensures:
+//    Visibility — All threads see the most recent value of the variable.
+//    Prevents instruction reordering — Guarantees correct construction of the object before it's assigned.
     private Singleton(){ // constructor is private to avoid initialisation directly, there is a way to by pass private through a technic called Reflection and create instance we can further avoid it by adding one more if(instance == null ) check inside constructor
         System.out.println("creating singleton Instance");
     }
