@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../Creational_FactoryDesignPattern2/pom.xml" />
         <option value="$PROJECT_DIR$/../Creational_abstractFactoryDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Creational_singletonDesignPattern/pom.xml" />
       </list>
     </option>
   </component>
