@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Creational_FactoryDesignPattern2" />
         <module name="Creational_FactoryDesignPattern" />
+        <module name="Creational_abstractFactoryDesignPattern" />
       </profile>
     </annotationProcessing>
   </component>
