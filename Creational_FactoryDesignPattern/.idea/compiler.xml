@@ -10,6 +10,7 @@
         <module name="Creational_FactoryDesignPattern" />
         <module name="Creational_singletonDesignPattern" />
         <module name="Creational_abstractFactoryDesignPattern" />
+        <module name="Creational_builderDesignPattern" />
       </profile>
     </annotationProcessing>
   </component>
