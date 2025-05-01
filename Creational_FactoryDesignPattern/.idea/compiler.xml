@@ -9,6 +9,7 @@
         <module name="Creational_FactoryDesignPattern2" />
         <module name="Creational_FactoryDesignPattern" />
         <module name="Creational_singletonDesignPattern" />
+        <module name="Behavioural_strategy_desingPattern" />
         <module name="Creational_abstractFactoryDesignPattern" />
         <module name="Creational_builderDesignPattern" />
       </profile>
