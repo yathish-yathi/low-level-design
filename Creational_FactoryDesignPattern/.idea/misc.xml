@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/../Creational_singletonDesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/../Creational_builderDesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/../Behavioural_strategy_desingPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Behavioural_observer_DesignPattern/pom.xml" />
       </list>
     </option>
   </component>
