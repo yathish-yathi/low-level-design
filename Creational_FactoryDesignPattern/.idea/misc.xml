@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/../Creational_builderDesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/../Behavioural_strategy_desingPattern/pom.xml" />
         <option value="$PROJECT_DIR$/../Behavioural_observer_DesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Structural_decorator_designPattern/pom.xml" />
       </list>
     </option>
   </component>
