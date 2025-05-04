@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Structural_adaptor_DesignPattern" />
         <module name="Creational_FactoryDesignPattern2" />
         <module name="Structural_decorator_designPattern" />
+        <module name="Structural_adapter_DesignPattern" />
+        <module name="Structural_facade_designPattern" />
         <module name="Creational_builderDesignPattern" />
         <module name="Creational_FactoryDesignPattern" />
         <module name="Creational_singletonDesignPattern" />
@@ -17,5 +18,9 @@
         <module name="Behavioural_observer_DesignPattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Structural_adapter_DesignPattern" target="17" />
+      <module name="Structural_facade_designPttern" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

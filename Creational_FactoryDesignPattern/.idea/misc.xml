@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/../Behavioural_observer_DesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/../Structural_decorator_designPattern/pom.xml" />
         <option value="$PROJECT_DIR$/../Structural_adaptor_DesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Structural_facade_designPattern/pom.xml" />
       </list>
     </option>
   </component>
